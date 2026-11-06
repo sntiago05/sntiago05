@@ -26,7 +26,7 @@ I'm currently working on REST API design, relational data modeling with PostgreS
 | [cine-hub](https://github.com/sntiago05/cine-hub) | Single-page app to browse series, save favorites and manage content through a local REST API | JavaScript, Vite, Tailwind CSS, JSON Server |
 | [spring-performance-test](https://github.com/sntiago05/spring-performance-test) | IT support ticketing platform built as two Spring Boot services with Docker Compose and monitoring | Java 21, Spring Boot, Docker, Prometheus/Grafana setup |
 
-Each project's README includes setup instructions and a section on known technical debt and limitations.
+Each project's README includes setup instructions and a section on known technical debt.
 
 ## Tech stack
 
