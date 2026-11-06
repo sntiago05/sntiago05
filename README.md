@@ -20,6 +20,7 @@ I'm currently working on REST API design, relational data modeling with PostgreS
 
 | Project | What it is | Stack |
 |---|---|---|
+| [rejuv](https://github.com/sntiago05/rejuv) | Discord bot for Deadlock players with utilities and match reports; some features use AI (Claude Haiku) | Java 21, Spring Boot 4.1, JDA 5, PostgreSQL, Flyway, Docker |
 | [code-arena](https://github.com/sntiago05/code-arena) | REST API for a programming challenge platform: users, levels, challenges, participations and achievements | Spring Boot, JPA, PostgreSQL, JWT with refresh tokens, Docker |
 | [pharma-link](https://github.com/sntiago05/pharma-link) | Full-stack platform connecting health providers, patients and pharmacies for prescriptions, reservations and inventory | Node.js, Express, PostgreSQL, Vite, Tailwind CSS, Docker Compose |
 | [spring-ecommerce-api](https://github.com/sntiago05/spring-ecommerce-api) | E-commerce API with JWT authentication, product catalog, cart, checkout and RabbitMQ events | Spring Boot, Spring Security, PostgreSQL, RabbitMQ, Docker |
