@@ -85,12 +85,6 @@ Each project's README includes setup instructions and a section on known technic
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Currently learning
-
-- Microservices and distributed systems
-- Automated testing (unit and integration) with JUnit and Testcontainers
-- Angular for full-stack development
-
 ## GitHub contributions
 
 <div align="center">
@@ -107,9 +101,3 @@ Each project's README includes setup instructions and a section on known technic
 </picture>
 
 </div>
-
-## Contact
-
-- **LinkedIn:** [santiagorodriguezmanzano](https://www.linkedin.com/in/santiagorodriguezmanzano/)
-- **Email:** [santiagoarm2004@gmail.com](mailto:santiagoarm2004@gmail.com)
-- **GitHub:** [sntiago05](https://github.com/sntiago05)
