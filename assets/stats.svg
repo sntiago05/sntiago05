@@ -28,10 +28,10 @@
   <rect class="card" x="0.5" y="0.5" width="419" height="249" rx="10"/>
   <text class="title fade" x="24" y="38">GitHub stats</text>
   <rect class="accent" x="24" y="48" width="120" height="3" rx="1.5"/>
-  <g class="fade" style="animation-delay:0.15s"><text class="label" x="24" y="84">Contributions (last year)</text><text class="value" x="396" y="84" text-anchor="end">940</text><line class="divider" x1="24" x2="396" y1="94" y2="94"/></g>
+  <g class="fade" style="animation-delay:0.15s"><text class="label" x="24" y="84">Contributions (last year)</text><text class="value" x="396" y="84" text-anchor="end">960</text><line class="divider" x1="24" x2="396" y1="94" y2="94"/></g>
   <g class="fade" style="animation-delay:0.25s"><text class="label" x="24" y="112">Commits (last year)</text><text class="value" x="396" y="112" text-anchor="end">672</text><line class="divider" x1="24" x2="396" y1="122" y2="122"/></g>
-  <g class="fade" style="animation-delay:0.35s"><text class="label" x="24" y="140">Pull requests</text><text class="value" x="396" y="140" text-anchor="end">104</text><line class="divider" x1="24" x2="396" y1="150" y2="150"/></g>
-  <g class="fade" style="animation-delay:0.45s"><text class="label" x="24" y="168">Issues</text><text class="value" x="396" y="168" text-anchor="end">43</text><line class="divider" x1="24" x2="396" y1="178" y2="178"/></g>
+  <g class="fade" style="animation-delay:0.35s"><text class="label" x="24" y="140">Pull requests</text><text class="value" x="396" y="140" text-anchor="end">112</text><line class="divider" x1="24" x2="396" y1="150" y2="150"/></g>
+  <g class="fade" style="animation-delay:0.45s"><text class="label" x="24" y="168">Issues</text><text class="value" x="396" y="168" text-anchor="end">44</text><line class="divider" x1="24" x2="396" y1="178" y2="178"/></g>
   <g class="fade" style="animation-delay:0.55s"><text class="label" x="24" y="196">Public repositories</text><text class="value" x="396" y="196" text-anchor="end">50</text><line class="divider" x1="24" x2="396" y1="206" y2="206"/></g>
   <g class="fade" style="animation-delay:0.65s"><text class="label" x="24" y="224">Stars earned</text><text class="value" x="396" y="224" text-anchor="end">5</text><line class="divider" x1="24" x2="396" y1="234" y2="234"/></g>
 </svg>
